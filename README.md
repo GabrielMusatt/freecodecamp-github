@@ -1,4 +1,4 @@
 # Demo
 
 
-text!
+text! + commit
